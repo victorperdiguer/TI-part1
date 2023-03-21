@@ -1,7 +1,7 @@
 # Prueba técnica JDN1 - Parte I
 
 - Realiza los siguientes ejercicios en orden. 
-- Haz tantos como puedas en el tiempo marcado. 
+- Haz tantos como puedas en el tiempo marcado (30'). 
 - Si necesitas saltar alguna, puedes saltarla, pero explica en un comentario qué lógica crees que se debe seguir para lograr el objetivo deseado. 
 - Todas las funciones se deben realizar en el archivo index.js.
 - Para visualizar resultados, puedes hacer logs. 
